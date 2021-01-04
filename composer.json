@@ -1,0 +1,19 @@
+{
+    "name": "ilya/oop",
+    "description": "oop",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilya Pavlovskyi",
+            "email": "i.v.pavlovskyi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "oop_project\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
